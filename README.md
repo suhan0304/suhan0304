@@ -1,26 +1,71 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=header&text=ZerrY's%20GitHub&fontColor=FFFFFF&fontSize=50" />
 
-<img src="https://capsule-render.vercel.app/api?type=default&color=timeAuto&height=120&section=header&text=Zerry's%20Github&fontSize=85" />
+#### ✔ About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhan0304)](https://github.com/anuraghazra/github-readme-stats)
+<h5 align="center">🔸 Tech Stack ✨</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Csharp-512BD4.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+</div>
 
-![ZerrY's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhan0304&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h5 align="center">🔸 Studying</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h5 align="center">🔸 Tools</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h5 align="center">🔸 Contact</h5>
+<div align="center">
+  <a href="https://velog.io/@suhan0304">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:suhan0304@gmail.com">
+    <img
+      src="https://img.shields.io/badge/suhan0304@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+--- 
+
+#### 🎖️ Ranking
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhan0304)](https://solved.ac/suhan0304)
+
+---
+
+#### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhan0304&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhan0304&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
+---
+
+#### 🛠️ Velog.IO
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suhan0304)](https://velog.io/@suhan0304/posts)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
 
-<!--
-**suhan0304/suhan0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=footer" />
