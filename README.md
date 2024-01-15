@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=default&color=timeAuto&height=120&section=header&text=Zerry's%20Github&fontSize=85" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhan0304)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Zerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhan0304)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suhan0304)](https://velog.io/@suhan0304/posts)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
+
 <!--
 **suhan0304/suhan0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
