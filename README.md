@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhan0304)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Zerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhan0304)](https://github.com/anuraghazra/github-readme-stats)
+![ZerrY's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhan0304&show_icons=true&theme=radical)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suhan0304)](https://velog.io/@suhan0304/posts)
 
