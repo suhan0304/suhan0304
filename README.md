@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=header&text=ZerrY's%20GitHub&fontColor=FFFFFF&fontSize=50" />
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=header&text=ZerrY's%20GitHub&fontColor=FFFFFF&fontSize=50" />
+</div>
 
 #### ✔ About Me
 
@@ -68,4 +70,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suhan0304)](https://velog.io/@suhan0304/posts)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=footer" />
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto &height=150&section=footer" />
+</div>
+
