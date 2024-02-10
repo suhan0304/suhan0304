@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Csharp-512BD4.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp 
 </div>
 
 <div align="center">
